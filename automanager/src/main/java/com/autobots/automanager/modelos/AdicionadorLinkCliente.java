@@ -2,8 +2,6 @@ package com.autobots.automanager.modelos;
 
 import java.util.List;
 
-
-
 import org.springframework.hateoas.Link;
 import org.springframework.hateoas.server.mvc.WebMvcLinkBuilder;
 import org.springframework.stereotype.Component;
